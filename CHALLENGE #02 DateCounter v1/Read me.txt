@@ -1,0 +1,11 @@
+CHALLENGE #2 DataCounter (v1) 
+
+//  Steps Component,
+//  Handling Events the React Way,
+//  What is State in React,
+//  Creating a State Variable With useState,
+//  The Mechanics of State,
+//  React Developer Tools,
+//  A Vanilla JavaScript Implementation
+
+

@@ -1,0 +1,6 @@
+CHALLENGE #1 Profile Card (v1) 
+
+//  Rendering the Root Component and Strict Mode,
+//  Creating And Reusing a Component,
+//  Passing and Receiving Props, Immutability, and One-Way Data Flow
+

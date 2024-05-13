@@ -1,0 +1,7 @@
+CHALLENGE #7 Currency Converter
+
+//  useEffect to the Rescue
+//  Using an async Function
+//  Handling Errors
+//  The useEffect Dependency Array
+//  The useEffect Cleanup Function

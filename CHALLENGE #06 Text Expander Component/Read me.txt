@@ -1,0 +1,9 @@
+CHALLENGE #6 Text Expander Component
+
+//  Split a UI Into Components
+//  Prop Drilling
+//  Component Composition
+//  Fixing Prop Drilling With Composition
+//  Using Composition to Make a Reusable Box
+//  Props as a Component API
+//  PropTypes  

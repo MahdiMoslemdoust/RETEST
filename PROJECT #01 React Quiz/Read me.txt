@@ -1,0 +1,8 @@
+PROJECT #01 React Quiz : Advanced State Management The Context API
+
+//  What is the Context API
+//  Creating and Providing a Context
+//  Consuming the Context
+//  Advanced Pattern A Custom Provider and Hook
+
+Notice: In this project, I used a fake api, which needs to be executed by adding a terminal and the 'npm run server' command.

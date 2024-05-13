@@ -1,0 +1,12 @@
+PROJECT #02 WorldWise : React Router Building SPA ,Optimizing Bundle Size
+
+//  Creating App With Vite
+//  Routing and Single-Page Applications
+//  Nested Routes and Index Route
+//  Dynamic Routes With URL Parameters
+//  Programmatic Navigation with useNavigate
+//  Performance Optimization and Wasted Renders
+//  Optimizing Bundle Size With Code Splitting
+
+
+Notice: In this project, I used a fake api, which needs to be executed by adding a terminal and the 'npm run server' command.
